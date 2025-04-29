@@ -4,3 +4,5 @@ The "Software for the Analysis of Puebla Air Pollution" project analyzed air qua
 ![image](https://github.com/user-attachments/assets/bb225cca-63ad-4e85-97dd-24263a51caa0)
 
 ![image](https://github.com/user-attachments/assets/425626f8-4ef3-44df-a5ca-d37bd167a820)
+
+![Time Series of Pollutants with Forecasts and Confidence Intervals for the next 15 days (1)](https://github.com/user-attachments/assets/72461f6c-1da5-44e2-b29f-c71d2018e9af)
