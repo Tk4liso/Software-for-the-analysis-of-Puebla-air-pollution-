@@ -1,4 +1,4 @@
-#Presentación Datathon - Arima vs TBats
+#Presentación - Arima vs TBats
 
 # ==== TBats ====
 
