@@ -6,3 +6,7 @@ The "Software for the Analysis of Puebla Air Pollution" project analyzed air qua
 ![image](https://github.com/user-attachments/assets/425626f8-4ef3-44df-a5ca-d37bd167a820)
 
 ![Time Series of Pollutants with Forecasts and Confidence Intervals for the next 15 days (1)](https://github.com/user-attachments/assets/72461f6c-1da5-44e2-b29f-c71d2018e9af)
+
+![Corriente_aire-Agua_Santa](https://github.com/user-attachments/assets/9bb0e151-5162-4d77-a208-e1e4fbd268cd)
+
+![REMA-Agua_Santa](https://github.com/user-attachments/assets/13341a98-9d50-4f7d-a588-f70848d83bb8)
